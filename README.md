@@ -1,15 +1,26 @@
 说明简介：
+
 用Java语言，为“新寻仙”网游写的一款辅助工具，主要功能为自动打怪、交易自动扫货，附属一些键盘连按、鼠标连点、等等小功能。
+
 用Java实现Windows平台下的模拟鼠标、按键、找图找色，实现按键精灵的功能。
 
+
 目录简介：
+
 /else information         --> 其他说明，包括注册dll、利润说明、使用说明等等,属于附加说明。
+
 /jre7                     --> 运行环境,运行、调试时，请使用此Jre来运行，否则很有可能会出现莫名其妙错误～
+
 /xunxianAutoFight         --> Java Project ，可直接导入MyEclipse
+
 /xunxianAutoFight/config  --> 软件的配置项，如界面数据保存、自动扫货买东西设置的一些金额保存等
+
 /xunxianAutoFight/xnx3    --> 资源文件，找图、点阵读字的文件存放 
+
 /xunxianAutoFight/src     --> Java源码
+
 /xunxianAutoFight/src/Main.java --> 运行程序的入口文件，运行程序时运行此文件。
+
 /xunxianAutoFight/src/include/Command.java  --> 整体控制，软件的数据配置、缓存等都是在这里，其他具体的参数等可以查看这个文件。
 
 开发步骤：
