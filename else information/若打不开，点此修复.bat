@@ -1,0 +1,1 @@
+copy %~dp0\msvcr100.dll C:\WINDOWS\system32
