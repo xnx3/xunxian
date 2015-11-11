@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<registration_data version="1.0">
+   <environment>
+      <hostname>jishuguanleiming</hostname>
+      <hostId/>
+      <osName>Windows 7</osName>
+      <osVersion>6.1</osVersion>
+      <osArchitecture>x86</osArchitecture>
+      <systemModel>To Be Filled By O.E.M.</systemModel>
+      <systemManufacturer>To Be Filled By O.E.M.</systemManufacturer>
+      <cpuManufacturer>AuthenticAMD</cpuManufacturer>
+      <serialNumber>To Be Filled By O.E.M.</serialNumber>
+   </environment>
+   <registry urn="urn:st:e62a7c53-ad44-4b00-9791-52f1cc0a6217" version="1.0">
+      <service_tag>
+         <instance_urn>urn:st:3fde15c4-1d43-4250-afbd-3c53319bc29e</instance_urn>
+         <product_name>Java SE 7 Runtime Environment</product_name>
+         <product_version>1.7.0</product_version>
+         <product_urn>JSERE-007-ZZZZ</product_urn>
+         <product_parent_urn>urn:uuid:dc1704fe-264f-11dc-9482-080020a9ed93</product_parent_urn>
+         <product_parent>Java Platform Standard Edition 7 (Java SE 7)</product_parent>
+         <product_defined_inst_id>id=1.7.0-b147 x86,dir=D:\Program Files\Java\jre7</product_defined_inst_id>
+         <product_vendor>Oracle Corporation</product_vendor>
+         <platform_arch>x86</platform_arch>
+         <timestamp>2012-10-09 07:11:19 GMT</timestamp>
+         <container>global</container>
+         <source>Windows JRE installer</source>
+         <installer_uid>-1</installer_uid>
+      </service_tag>
+   </registry>
+</registration_data>
