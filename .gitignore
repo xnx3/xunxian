@@ -4,13 +4,12 @@
 .mtj.tmp/
 
 # Package Files #
-*.jar
 *.war
 *.ear
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 
-xunxianAutoFight/.settings/org.eclipse.core.resources.prefs
+xunxianAutoFight/.settings/*
 
-xunxianAutoFight/.settings/org.eclipse.jdt.core.prefs
+xunxianAutoFight/bin/*
