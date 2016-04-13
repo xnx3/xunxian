@@ -1,3 +1,5 @@
+<h1>总结而成的辅助开发Jar包：<a href="http://github.com/xnx3/xnx3">http://github.com/xnx3/xnx3</a></h1>
+<h2>当前使用的是com.xnx3.microsoft包，以后建议使用com.xnx3.robot.Robot进行做模拟、找图找色的操作。Robot是纯Java实现，不依赖任何dll文件等，可进行跨平台进行开发！而且只需倒入一个xnx3-2.1.jar即可使用，极其方便。</h2>
 说明简介：  
 用Java语言，为“新寻仙”网游写的一款辅助工具，主要功能为自动打怪、交易自动扫货，附属一些键盘连按、鼠标连点、等等小功能。  
 用Java实现Windows平台下的模拟鼠标、按键、找图找色，实现按键精灵的功能。 
